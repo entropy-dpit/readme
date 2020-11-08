@@ -2,7 +2,7 @@
 General Info about Team Entropy
 
 # Who is Team Entropy?
-- We are the people behind Safe Signal, a new step in personal safety. [Facebook](https://www.facebook.com/Safe-Signal-110487760734282)
+- We are the people behind Safe Signal, a new step in personal safety.
 - We won 2nd Place during the 2020 DpIT Contest
 
 # The Team
